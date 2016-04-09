@@ -1,5 +1,5 @@
 {
-  "name": "json-merge",
+  "name": "json-merge-cli",
   "version": "1.0.0",
   "description": "CLI tool used for JSON file extending with custom params.",
   "main": "index.js",
