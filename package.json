@@ -1,0 +1,15 @@
+{
+  "name": "json-merge",
+  "version": "1.0.0",
+  "description": "CLI tool used for JSON file extending with custom params.",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": { },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "lodash": "^4.8.2",
+    "minimist": "^1.2.0"
+  }
+}
