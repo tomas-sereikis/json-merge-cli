@@ -5,6 +5,10 @@
   "main": "index.js",
   "bin": "index.js",
   "scripts": { },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tomas-Sereikis/json-merge-cli.git"
+  },
   "engines" : {
     "node" : ">=0.5.0"
   },
